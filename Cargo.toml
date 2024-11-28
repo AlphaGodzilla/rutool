@@ -1,0 +1,8 @@
+[package]
+name = "rutool"
+version = "0.1.0"
+edition = "2021"
+description = "A brief description of your crate."
+repository = "https://github.com/AlphaGodzilla/rutool"
+
+[dependencies]
