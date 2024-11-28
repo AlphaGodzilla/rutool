@@ -4,6 +4,6 @@ version = "0.1.0"
 edition = "2021"
 description = "A brief description of your crate."
 repository = "https://github.com/AlphaGodzilla/rutool"
-license = "Mulan PSL v2"
+license = "MulanPSL-2.0	"
 
 [dependencies]
